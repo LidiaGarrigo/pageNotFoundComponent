@@ -1,15 +1,16 @@
-# LidiasPageNotFound
+# Lidias Page Not Found
 
 This library was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.0.
 
-# Getting started
-```
+## Getting started
+
+```npm
 npm i lidias-page-not-found
 ```
 
-# Setup
+## Setup
 
-```
+```typescript
 import { LidiasPageNotFoundModule } from 'lidias-page-not-found';
 
 @NgModule({
@@ -23,17 +24,16 @@ import { LidiasPageNotFoundModule } from 'lidias-page-not-found';
 export class AppModule { }
 ```
 
-# Using the component
+## Using the component
 
-```
+```html
 <lidias-page-not-found></lidias-page-not-found>
 ```
-
 
 ## Code scaffolding
 
 Run `ng generate component component-name --project lidias-page-not-found` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module --project lidias-page-not-found`.
-> Note: Don't forget to add `--project lidias-page-not-found` or else it will be added to the default project in your `angular.json` file. 
+> Note: Don't forget to add `--project lidias-page-not-found` or else it will be added to the default project in your `angular.json` file.
 
 ## Build
 
